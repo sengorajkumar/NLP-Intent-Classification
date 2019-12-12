@@ -1,0 +1,751 @@
+text,label
+can you please provide me with assistance in moving money from one account to another,transfer
+i would like help moving money between accounts,transfer
+can you assist me in moving money from one account to another,transfer
+i would like help moving money from one account to another,transfer
+i would like assistance moving money from one account to another,transfer
+can i move some money around,transfer
+can i make a transfer between my accounts,transfer
+i need to make a transfer of my money,transfer
+can i move some money between my two accounts,transfer
+i would like to distribute some money between my accounts,transfer
+i would like to transfer $100 from my checking to saving account,transfer
+help me transfer $100 from my checking to saving account,transfer
+transfer $100 from my checking to saving account,transfer
+can you please help me move $100 from my checking to saving account,transfer
+please move $100 from my checking to saving account,transfer
+"transfer seventeen dollars from rbs to woodforest account, please",transfer
+"send twelve dollars between cabelas and bank of london accounts, please",transfer
+"transfer ninety dollars between glacier checking and farmers accounts, please",transfer
+transfer seventy dollars between national and citizens accounts,transfer
+transfer four and sixty seven dollars from bank of oklahoma checking to security bank account,transfer
+how much money can i transfer today,transfer
+add funds to the retirement account from the pnc account only,transfer
+would you move 100 dollars from the checking and put it into savings,transfer
+repeat what the weather will be like,transfer
+i would like to put 100 dollars from the checking into the savings account now,transfer
+please transfer $5000 to money market from checking account,transfer
+i need $360 transfered from savings to checking account,transfer
+make an immediate transfer of ten thousand from money market to checking,transfer
+i'd like to transfer $400 from household to savings account,transfer
+transer $800 from my checking to savings account,transfer
+how can i increase my credit score,improve_credit_score
+how can i raise my credit score,improve_credit_score
+how can i contribute to my credit score,improve_credit_score
+how is it possible to get a better credit score,improve_credit_score
+how can i up my credit score,improve_credit_score
+can you explain to me how i might boost my credit score,improve_credit_score
+my credit score stinks but i don't know how to improve it,improve_credit_score
+what preventative measures can i take to avoid a low credit score,improve_credit_score
+how can i keep my credit score from falling,improve_credit_score
+give me some ideas for boosting my credit score,improve_credit_score
+how can i prevent my credit score from dropping,improve_credit_score
+what steps can i take to build my credit score,improve_credit_score
+give me some tips on building up my credit score,improve_credit_score
+how can i rehabilitate my poor credit score,improve_credit_score
+give me some ideas of how to avoid my credit score lowering,improve_credit_score
+give me tips on improving my credit score,improve_credit_score
+what steps should i take if i want to ensure my credit score doesn't drop,improve_credit_score
+can you tell me some strategies for raising my credit score,improve_credit_score
+i want to know how i can build up a good credit score,improve_credit_score
+"""what's the method to improve credit score",improve_credit_score
+"""which is the best way to improve the credit score",improve_credit_score
+"""which could be improve the credit score",improve_credit_score
+"""when the credit score improve",improve_credit_score
+"""where is improve the credit score",improve_credit_score
+it is damaging to my credit score if i miss one credit card payment,improve_credit_score
+i have a revolving store card and defaulted so will my fico score be affected,improve_credit_score
+will my fico score decrease if i increase my student loan debt,improve_credit_score
+if i lose my job will my credit score go down,improve_credit_score
+can i hurt my credit rating if i open several credit cards in a short time frame,improve_credit_score
+will only having five late payments really make my credit bad,improve_credit_score
+how long does it take for a credit card to be reissued and mailed to me,replacement_card_duration
+can credit card companies expedite delivery of reissued credit cards,replacement_card_duration
+can you call the help desk line for my credit card company,replacement_card_duration
+how can i request a new credit card,replacement_card_duration
+what's the phone number for my credit card company,replacement_card_duration
+i recently lost my credit card and need to know how long it takes to get a new one mailed to me,replacement_card_duration
+i need to know the time it takes to get a new credit card sent to someone who lost theirs,replacement_card_duration
+i lost my credit card recently  how long does take to get a new one in the mail,replacement_card_duration
+what is amount of time it takes to get a new credit card i lost mine recently,replacement_card_duration
+what is the time frame for sending a customer who lost their credit card a new one,replacement_card_duration
+will i get getting my new card anytime soon,replacement_card_duration
+what is the shipping status of my replacement card,replacement_card_duration
+how long until i get my replacement card,replacement_card_duration
+when is my new card expected to arrive,replacement_card_duration
+is my replacement card due to arrive in the mail today,replacement_card_duration
+how long before my new card is mailed to me,replacement_card_duration
+what is the shipping time for my card,replacement_card_duration
+how much time before my new card is mailed to me,replacement_card_duration
+how long does it take to get a new credit card,replacement_card_duration
+time to order and receive a new credit card,replacement_card_duration
+when will i received a replacement card,replacement_card_duration
+time to replace my credit card,replacement_card_duration
+how long before the replacement card is mailed to me,replacement_card_duration
+how much longer before the card is mailed to me,replacement_card_duration
+how long will it takes to get a new credit card,replacement_card_duration
+what is the shipping wait for my card,replacement_card_duration
+when will the replaecment card arrive,replacement_card_duration
+let me know the wait on a replacement credit card,replacement_card_duration
+let me know when the replacement card will arrive,replacement_card_duration
+how soon can i expect a replacement card for my lost card to arrive,replacement_card_duration
+how is the status of my credit card application coming along,application_status
+what exactly is the status of my application for the credit card,application_status
+i need to know the status of my credit card application,application_status
+i would like to know the status of my credit card application,application_status
+let me know if my application for american saving bank,application_status
+check the status of my credit card application for me,application_status
+i want to know if my credit card application has been processed,application_status
+i want to know the status of my credit card application,application_status
+can you check if my credit card application has been processed,application_status
+i want to know how is my credit card application going,application_status
+can you let me know the status of my discover credit card application status,application_status
+can you tell me the status of my credit card application,application_status
+has my application for american express gone through yet,application_status
+let me know about the status of my credit card application,application_status
+can you please tell me about the status of my credit card application,application_status
+can you please let me know the status of my capital one application,application_status
+let me know the credit card application status,application_status
+has my application for discover card gone through yet,application_status
+can you tell me the credit card application status,application_status
+has my application for the hsbc card been approved yet,application_status
+please tell me if my application for the hsbc card has gone through yet,application_status
+how far has my application for the hsbc card gone till now,application_status
+what's the status on my application for the hsbc credit card,application_status
+how far has my application for the hsbc card proceeded till now,application_status
+did the application for my visa card finish,application_status
+has my mastercard application gone through the process,application_status
+has my mastercard application gone through yet,application_status
+has my application for my visa card gone through,application_status
+has my mastercard application been processed,application_status
+when will i know if my visa card application was approved,application_status
+what are my coffers at,balance
+tell me the current balance of my bank accounts,balance
+what's my current bank account total,balance
+how much do i have in my bank accounts,balance
+what's the balance in my bank accounts,balance
+what do i have in my bank accounts right now,balance
+is there enough in my wells fargo account to buy some nike's,balance
+do i have enough in my wells fargo account to get some nike's,balance
+do i have money in my wells fargo account for nike's,balance
+"i want some nike's, is there enough in my wells fargo account",balance
+check my wells fargo account to see if i have enough for these nike's,balance
+would you tell me my bank balance,balance
+can you tell me my bank balance,balance
+will you let me know my bank balance,balance
+will you tell me my bank balance,balance
+how much money is there in my bank accounts,balance
+how much money do i have in my various bank accounts,balance
+how much cash do i have in my various bank accounts,balance
+how much cash do i have in my bank accounts,balance
+how much dough do i have in my bank accounts,balance
+whats the combined total of the money inside my bank accounts,balance
+whats my bank accounts look like,balance
+how much moola is in my bank accounts,balance
+what the numerical number inside my bank accounts,balance
+how much does my bank account have,balance
+tell me the current account balance,balance
+check my checking balance,balance
+how much do i have left in my checking account,balance
+what's my checking look like,balance
+how much do i have in my savings account,balance
+can you freeze my bank account,freeze_account
+i want to freeze my bank account,freeze_account
+i want my account locked out,freeze_account
+stop all access to my account,freeze_account
+i need my account frozen!,freeze_account
+i need to lock my account right now!,freeze_account
+please force my account to freeze,freeze_account
+please stop my account,freeze_account
+please allow my account to freeze,freeze_account
+please put my account on hold,freeze_account
+freeze my account at the bank immediately,freeze_account
+would you be able to freeze my bank account,freeze_account
+my account at the bank needs to be frozen,freeze_account
+please block my discover account immediately,freeze_account
+please put a block on my citi account immediately,freeze_account
+block my american saving bank for now,freeze_account
+block my bank of america immdediately,freeze_account
+put a block on bank of amerian immediately,freeze_account
+my account needs to be frozen,freeze_account
+freeze my account for me,freeze_account
+put a freeze on my account,freeze_account
+could you please put a stop on my bank account,freeze_account
+i need to put a stop on my bank account,freeze_account
+are you able to put a stop on my bank account,freeze_account
+please put a stop on my bank account,freeze_account
+i am hoping you can put a stop on my bank account,freeze_account
+please put a freeze on my banking account,freeze_account
+i need my bank account frozen,freeze_account
+how do i freeze my bank account,freeze_account
+would you freeze my bank account,freeze_account
+i need to know all my spending transactions,transactions
+when did i last make a purchase,transactions
+how much did i spend on my most recent transaction,transactions
+show me my ten most recent transactions on account xyz,transactions
+i want to see all transactions in the past month for all accounts,transactions
+show me my recent transactions from account xyz,transactions
+open bank app and show my most recent transactions,transactions
+are you able to find my recent transactions for me,transactions
+i made a transaction recently,transactions
+what was my recent transaction,transactions
+i want to know what my recent transaction was,transactions
+i need information about my recent transaction,transactions
+state recent transaction,transactions
+is my visa bill over my limit this month,transactions
+what have i spent things on,transactions
+show my transactions,transactions
+what were my last 10 charges on my credit card,transactions
+show what i have spent things on,transactions
+how much have i spent on my debit card this month,transactions
+how much have i spent on my bank card sine i last paid my bill,transactions
+how much was my last target trip,transactions
+can you verify my recent visa card transaction,transactions
+what was my recent transaction on my visa card,transactions
+what is the last transaction on my visa card,transactions
+show my my most recent visa card transaction,transactions
+please review my recent visa card transaction,transactions
+how many transactions do i have on flower shops from last wednesday between 2pm and 7pm,transactions
+what transactions did i make on electronics this morning after 6am,transactions
+what is the largest transaction i have made on video games this month,transactions
+what transactions do i have on groceries from yesterday,transactions
+what's the total i've spent on shoes this month,spending_history
+how many dollars have i spent on coffee this month,spending_history
+what have i spent on food this month,spending_history
+how much have i spent on tires this month,spending_history
+how much have i been spending on booze this month,spending_history
+what have i spent on fast food recently,spending_history
+how much total have i spent on fast food lately,spending_history
+how much fast food have i bought recently,spending_history
+check how much i spent this week,spending_history
+how much money have i spent on fast food lately,spending_history
+how much money have a spent in the last week,spending_history
+how much money did i spend this weekend,spending_history
+tell me how much money i've spent on fast food in the past week,spending_history
+what is the total amount i spent last week,spending_history
+what've i spent on gas this month,spending_history
+have i gone over my entertainment budget,spending_history
+would you say i've spent too much money on chips as of late,spending_history
+"looking at this week only, have i overspent on hoagies",spending_history
+do i overspend when it comes to fast food,spending_history
+"looking at the past month, what did i spend total",spending_history
+have i gone over my chocolate budget lately,spending_history
+how much have i spent this week,spending_history
+about how much did i spend recently,spending_history
+tell me how much i have been buying as of late,spending_history
+what did i spend on beer last month,spending_history
+did i stick to my dinner budget,spending_history
+how much have i spent on video games recently,spending_history
+do i spend too much on beer,spending_history
+what are my finances like lately,spending_history
+how much money have i spent recently,spending_history
+x card has earned how many points,rewards_balance
+can you give me a points update on my rewards plus card,rewards_balance
+can you pull up how many points i've earned with travel card,rewards_balance
+what is the updated points that i earned with synovus card,rewards_balance
+how many points do i have on my six flags rewards card,rewards_balance
+i would like to check my rewards for my credit card,rewards_balance
+i need to check my rewards for my credit card,rewards_balance
+i wanna know how many points have i earned with my credit card,rewards_balance
+i would like to know my debit card's rewards balance,rewards_balance
+i would like to know how many points have i earned with my credit card,rewards_balance
+i need to know my credit card's rewards balance,rewards_balance
+i wanna know my credit card's rewards balance,rewards_balance
+i really need to check my rewards for my credit card,rewards_balance
+i would like to check my rewards for my debit card,rewards_balance
+i wish to know my debit card's rewards balance,rewards_balance
+i wanna check my rewards for my credit card,rewards_balance
+tell me my debit card's rewards balance,rewards_balance
+i need to understand how many points have i earned with my credit card,rewards_balance
+i must know how many points have i earned with my credit card,rewards_balance
+i gotta know how many points i have gotten with my debit card,rewards_balance
+how many points earned do i have with my american express card,rewards_balance
+how many points have i earned with my paypal credit card so far,rewards_balance
+i have points on my capital one card and i'd like to know how many i've earned,rewards_balance
+"have i earned points with my venture card, and how many",rewards_balance
+what do my visa points look like,rewards_balance
+how many points do i have on my visa,rewards_balance
+tell me the number of points on my visa card,rewards_balance
+give me the point total on my visa card,rewards_balance
+what points have i earned on my visa,rewards_balance
+how many rewards points do i have on my rewards points i have on my mastercard,rewards_balance
+i would like to know my credit score,credit_score
+tell me what my credit score is,credit_score
+can you find what my credit score is,credit_score
+how is my credit score numberwise,credit_score
+what credit score number do i have,credit_score
+what is my credit score number,credit_score
+how much is my credit score,credit_score
+what number is my credit score currently,credit_score
+is my credit score over 700 yet,credit_score
+please give me my current credit score,credit_score
+i'm trying to raise my credit score can you tell me what it is now,credit_score
+i need to know what my credit score is,credit_score
+could you tell me what my credit score is,credit_score
+give me my credit score please,credit_score
+could you share my credit score,credit_score
+how's my credit score,credit_score
+i was wondering what my credit score is,credit_score
+where do i go for my credit score,credit_score
+i need to find my credit score,credit_score
+how can i locate my credit score,credit_score
+what is my credit rating,credit_score
+i want to know my credit rating,credit_score
+my credit rating is what,credit_score
+tell me my credit raing,credit_score
+give me my credit rating,credit_score
+please tell me what my credit score is,credit_score
+i'd like you to check on my credit score,credit_score
+let me know what my credit score is today,credit_score
+can you check my credit score,credit_score
+can you check my credit score for me,credit_score
+i would like to get a new credt card,new_card
+i would love to get a new credit card,new_card
+do you have any information on how to open a new credit card,new_card
+tell me how to apply for a new credit card,new_card
+tell me how to apply for a credit card,new_card
+i want to know how to go about getting a new credit card,new_card
+please tell me how to get a new credit card,new_card
+am i eligible for a new credit card,new_card
+i need to get a new credit card application,new_card
+what's the best way to get a mastercard,new_card
+is this where i apply for a new credit card,new_card
+how do i apply do get myself a visa,new_card
+can you complete an application for a new credit card for me,new_card
+i need to get a mastercard somehow,new_card
+how can i get a visa card,new_card
+can i apply here for a new card,new_card
+does bank of america give credit cards to people like me,new_card
+what do i do to get a visa card,new_card
+is it possible for me to get a better credit card,new_card
+how do i submit an application for a discover card,new_card
+how do i apply for american express,new_card
+find out if there's a new credit card that suits me,new_card
+how do i apply for a new credit card,new_card
+what's it take to get a mastercard,new_card
+can i apply for a visa card,new_card
+how do i apply for a visa card,new_card
+i wish to apply for a visa card,new_card
+help me apply for a visa card,new_card
+is there a list of good credit cards i can choose from to apply for,new_card
+how can i find a new credit card to apply to,new_card
+i need to tell you about my lost card,report_lost_card
+"i lost my card, what do i do next",report_lost_card
+"i have lost my card, what am i supposed to do",report_lost_card
+where do i report that my card was lost,report_lost_card
+who do i speak with about my card that was lost,report_lost_card
+please help me report my lost card,report_lost_card
+set up a report for a lost card,report_lost_card
+can you report a lost card for me,report_lost_card
+i lost my card and need to report it,report_lost_card
+what is the process for reporting my card as lost,report_lost_card
+someone used my chase card without my authorization,report_lost_card
+can you tell me how to report a card lost,report_lost_card
+please tell me how to go about reporting a lost card,report_lost_card
+search steps for how to report a card lost,report_lost_card
+i need to to know how to report a lost card,report_lost_card
+my bank of america visa platinum was swiped from my belongings,report_lost_card
+who do i call to report my card as lost,report_lost_card
+what should i do if i need to report my card lost,report_lost_card
+my capital one visa was taken without permission,report_lost_card
+i need to report that someone ran off with my td bank card earlier,report_lost_card
+what steps do i need to take to report a card lost,report_lost_card
+i would like to report my american express card stolen,report_lost_card
+how do i report that i lost my card,report_lost_card
+how do i report that i actually lost my card,report_lost_card
+how do i report that i lost the card,report_lost_card
+how do i report my very lost card,report_lost_card
+how do i report the card as lost,report_lost_card
+"lost report card, need new one",report_lost_card
+my report card was stolen,report_lost_card
+my report card was lost help!,report_lost_card
+tell me how to go about reporting a damaged card,damaged_card
+my card is damaged,damaged_card
+i want to report a damaged card,damaged_card
+where should i report a damaged card,damaged_card
+can you find out how to report a damaged card,damaged_card
+my card has become too frayed and torn to use,damaged_card
+what do i do about a card that's too messed up to be properly scanned,damaged_card
+my card became damaged when i dropped it in the parking lot and it got ran over,damaged_card
+i have a damaged card that needs replaced because my son dropped it in a blender,damaged_card
+i sat on my credit card and broke it in half and need it replaced,damaged_card
+my credit card got torn and i need a new one,damaged_card
+what do i do with a damaged credit card,damaged_card
+how do i replace a damaged card,damaged_card
+i have a card that needs replaced because my wine dumped wine on it,damaged_card
+i spilled wine on my credit card and now its all mushy and needs to be replaced,damaged_card
+my dog swallowed my credit card and i need a new one,damaged_card
+i want to report a damaged card that my cat shredded with its claws,damaged_card
+i need to replace a card that my daughter spilled juice on,damaged_card
+i'm unable to use my card because it's been ruined,damaged_card
+i can't use my card because it’s damaged badly,damaged_card
+i cannot use my card cuz it's damaged,damaged_card
+i can't use my card because it’s messed up,damaged_card
+i can't use my card because it’s broken,damaged_card
+i can't use my card because i damaged it,damaged_card
+who should i talk to about the fact that i inadvertently split my card almost in half,damaged_card
+i accidentally deactivated the magnetic stripe on my visa debit card and i need to report it,damaged_card
+can i talk to someone to let them know my card was damaged from being melted on a radiator,damaged_card
+i would like to report a damaged card that was burnt,damaged_card
+i would like to report my card damaged since i accidentally spilled gorilla glue all over it and the numbers are now obscured,damaged_card
+my visa has been damaged,damaged_card
+when is my electric bill due by,bill_due
+when is my car insurance bill due,bill_due
+how long until my water bill is due,bill_due
+what's the latest i can pay my cellular bill,bill_due
+what's the due date for my netflix subscription,bill_due
+tell me where i can find my exterminator bill's due date,bill_due
+how do i locate the due date for my bug bill,bill_due
+where can i see the due date for auto loan bill,bill_due
+when is my cell phone due,bill_due
+i need to know where my due date is for my lawn bill,bill_due
+where can i find when my car payment bill is due,bill_due
+what's the ultimate day for me to pay the internet bill,bill_due
+tell me the last day i can pay my gas bill,bill_due
+what's the due date for my comcast bill,bill_due
+i need to know when my water bill is due,bill_due
+please tell me how to find out when my rent is due,bill_due
+i need to know when my electricity bill is due,bill_due
+can you tell me when my cable bill is due,bill_due
+i need to find out how to check the due date for the water bill,bill_due
+when does the current billing cycle end,bill_due
+is the bill due today,bill_due
+is the bill due,bill_due
+when do i have to pay my internet,bill_due
+i want to know when the deadline is to pay my car loan,bill_due
+tell me when my water bill is due,bill_due
+what day of the month do i have to pay my mortgage,bill_due
+when is my electricity due date,bill_due
+i need to know the next billing date of my american express card,bill_due
+when does my gas bill need paid by,bill_due
+when is next month's cable bill due,bill_due
+convert 200 us dollars to british pounds,exchange_rate
+how many japanese yen are in a us dollar,exchange_rate
+how much is 5 us dollars worth in canadian dollars,exchange_rate
+can you tell me what 100 british pounds equals in us dollars,exchange_rate
+what is the exchange rate between us dollars and japanese yen,exchange_rate
+whats the current exchange rate between usd and eur,exchange_rate
+what's the exhange rate between mxn and gbp,exchange_rate
+what is the current exchange rate between mxn and eur,exchange_rate
+what's the exchange rate between ils and usd,exchange_rate
+what is the usd mxn exchange rate,exchange_rate
+how many mexican pesos is a us dollar worth,exchange_rate
+how much is one us dollar in british pounds,exchange_rate
+whats the exchange rate for us dollars to british pounds,exchange_rate
+what is a british pound worth in mexican pesos,exchange_rate
+how many mexican pesos can i get for one us dollar,exchange_rate
+look up the rate of exchange between pesos and usd,exchange_rate
+find me the exchange rate between usd and cad,exchange_rate
+what is the exchange rate between euros and pesos,exchange_rate
+tell me the current exchange rate between cad and euros,exchange_rate
+what is the present exchange rate between usd and british pound,exchange_rate
+convert 20 yen to dollars,exchange_rate
+how many dollars can i get for 20 yen,exchange_rate
+how many dollars is 20 yen worth,exchange_rate
+20 yen is how many dollars,exchange_rate
+20 yen equals how many dollars,exchange_rate
+is $30 usd more or less in canada,exchange_rate
+"in canadian dollars, what is $30",exchange_rate
+what is the conversion of $30 in canadian dollars,exchange_rate
+can you please convert $30 usd to canadian dollars,exchange_rate
+how much is $30 usd in canadian dollar,exchange_rate
+what's the most i can charge on my card,credit_limit
+how much do i have available on my visa card,credit_limit
+what is my visa credit limit,credit_limit
+how much of a credit limit does visa allow,credit_limit
+is there a substantial credit limit on my visa,credit_limit
+as my visa got a high enough limit on it,credit_limit
+what is my credit max,credit_limit
+what is my credit card spending limit,credit_limit
+what's my daily spending limit,credit_limit
+tell me my credit limit,credit_limit
+how much credit do i have on my discover card,credit_limit
+do i have a monthly spending limit,credit_limit
+what's the limit on my discover card,credit_limit
+is there a spending limit,credit_limit
+what is my credit limit on my discover,credit_limit
+what's my spending limit on my discover,credit_limit
+how much is my maximum to spend on credit cards,credit_limit
+what's my discover credit limit,credit_limit
+how much can i use on my visa,credit_limit
+my visa has what limit,credit_limit
+tell me my visa limit,credit_limit
+look up how high my visa limit is,credit_limit
+what is the limit on my visa,credit_limit
+what is my state bank of india card credit limit,credit_limit
+calculate the limit i have available for spending on my natwest card,credit_limit
+tell me my hsbc card credit limit,credit_limit
+what's the spending limit on my lloyds card,credit_limit
+i need you to tell me the credit limit for my republic bank card,credit_limit
+how high is my credit limit,credit_limit
+i want to know my credit limit,credit_limit
+why is my bank account locked,account_blocked
+how do i unlock my bank account,account_blocked
+can you unlock my bank account,account_blocked
+how did my bank account get frozen,account_blocked
+can you help me unlock my bank account,account_blocked
+call my bank and ask them why my account is frozen,account_blocked
+check with my bank to see why my account is frozen,account_blocked
+do you know why my bank account is frozen,account_blocked
+why did my bank place a hold on my bank account,account_blocked
+are there any problems with my bank account,account_blocked
+did someone who is unauthorized try to get into my bank account,account_blocked
+how can i unfreeze my bank account,account_blocked
+why is there a stop on my deposit account,account_blocked
+why can't i use my money market account,account_blocked
+why is there a delay on my checking account,account_blocked
+why is my checking account not working,account_blocked
+what could cause a hold on my savings account,account_blocked
+what caused a hold on my us bank account,account_blocked
+can you check and see why us bank put a hold on my account,account_blocked
+why does us bank have a hold on my account,account_blocked
+reasons that us bank would place a hold on my account,account_blocked
+check to see why us bank placed a hold on my account,account_blocked
+"is there a problem with my account, it appears to be blocked",account_blocked
+"what is up with my account, why is it blocked",account_blocked
+there seems to be an issue with my account,account_blocked
+can you help me unblock my account,account_blocked
+"can you check what the problem with my account is, it seems to b e blocked",account_blocked
+is there a reason you put a hold on my chase account,account_blocked
+why can't i access my chase account,account_blocked
+how come my chase account has a hold on it,account_blocked
+i want to report fraudulent activity on my navy federal card,report_fraud
+i would like to report fraudulent activity on my chase card,report_fraud
+i need to report fraudulent activity on my usaa card,report_fraud
+i have to report fraudulent activity on my bank of the west card,report_fraud
+i have to report fraudulent activity the bank of america card,report_fraud
+i seem to have a purchase that i didn't make from olive garden on my account,report_fraud
+my online bill has some items that i didn't purchase from penneys,report_fraud
+my account shows a transaction that i didn't make from foot locker,report_fraud
+my bill shows a purchase from payless shoes but i didn't buy anything,report_fraud
+i have some charges on my account from old navy that aren't mine,report_fraud
+this charge is bs,report_fraud
+i have a bogus transaction from amazon on my account,report_fraud
+i have a fraudulent buy from dave's video on my account,report_fraud
+i have a crap transaction from guitar center on my account,report_fraud
+i think this transaction is bogus,report_fraud
+i don't remember buying this,report_fraud
+i have a bs transaction from ebay on my account,report_fraud
+i've got a fraudulent purchase from kayak on my account,report_fraud
+do i have a fraudulent transaction on my account,report_fraud
+i'm pretty sure i have a fraudulent transaction on my account,report_fraud
+there's a false charge on my account from mcdonald's,report_fraud
+i think there's a fraudulent charge from mcdonald's on my account,report_fraud
+i think someone jacked my bank account,report_fraud
+i saw suspicious activity on my bank account,report_fraud
+someone else used my account to buy stuff from mcdonald's,report_fraud
+there's a messed up transaction on my account from mcdonald's,report_fraud
+i saw a fraudulent transaction,report_fraud
+i have a false charge on my account from mcdonald's,report_fraud
+who do i contact to report fraud on my visa,report_fraud
+there has been unauthorized use of my visa,report_fraud
+how do i set up a direct deposit,direct_deposit
+how do i set up direct deposit,direct_deposit
+chase account direct deposit options,direct_deposit
+set my paycheck to direct deposit to chase account,direct_deposit
+activate direct deposit to chase account,direct_deposit
+chase account options direct deposit,direct_deposit
+bank options direct deposit,direct_deposit
+how do i set up a direct deposit for my paycheck,direct_deposit
+how to activate direct deposit to chase account,direct_deposit
+get my paycheck to direct deposit,direct_deposit
+direct deposit,direct_deposit
+i need a direct deposit,direct_deposit
+can we get a direct deposit,direct_deposit
+set up direct deposit,direct_deposit
+i want to set up direct deposit,direct_deposit
+setting up direct deposit,direct_deposit
+how do i get my paycheck into direct deposit at nations bank,direct_deposit
+could you tell me how to set up direct deposit for my check from work at nations bank,direct_deposit
+if i want to direct deposit my check into my nations bank account how do i do that,direct_deposit
+i need to know how to do direct deposit with my paycheck at nations bank,direct_deposit
+could you tell me how to direct deposit my check from work into nations bank,direct_deposit
+how does one set up direct deposit to my bank account,direct_deposit
+what do i need to do to set up direct deposit,direct_deposit
+what is the process of setting up direct deposit,direct_deposit
+"if i want to set up direct deposit, how do i do it",direct_deposit
+i'm not sure how to set up direct deposit,direct_deposit
+can you tell me how to set up direct deposit,direct_deposit
+"i'd like my checks to be deposited into my account directly, how do i do that",direct_deposit
+i'd like to set up direct deposit,direct_deposit
+how do i set up my direct deposit,direct_deposit
+what's my bank of america account getting in interest,interest_rate
+where do i see what interest my mortgage has,interest_rate
+is there somewhere my personal loan displays the interest rate i'm paying on it,interest_rate
+what's the apr on my savings account,interest_rate
+what interest rate am i getting from bank of america,interest_rate
+what interest rate am i getting from wells fargo,interest_rate
+what interest rate is bofi giving me on my cd,interest_rate
+how do i find the interest rate for my checking account,interest_rate
+what interest rate am i getting from citrix,interest_rate
+how can i tell what the interest rate on my money market account is,interest_rate
+what's my checking account yielding in interest,interest_rate
+how much interest is my nfcu accrueing,interest_rate
+what interest rate am i getting from sunflower bank,interest_rate
+where do i go to find the interest rate on my savings account,interest_rate
+what interest rate am i getting from nfcu,interest_rate
+for my savings account i would like to know the interest rate,interest_rate
+i need my checking account's interest rate,interest_rate
+tell me the interest for my savings account,interest_rate
+what's the interest rate on my savings account,interest_rate
+i want the interest rate for my checking account,interest_rate
+can i get the interest rate for my checking account,interest_rate
+i need to get the interest rate of my savings account,interest_rate
+what's my savings account interest,interest_rate
+what's my savings account interest rate,interest_rate
+i would like the interest rate for my savings account,interest_rate
+what amount of interest does my checking account earn,interest_rate
+what does my checking account at chase earn in interest,interest_rate
+what amount of interest does my checking account at chase earn,interest_rate
+what interest rate does my checking account come with,interest_rate
+what does chase pay in interest per year,interest_rate
+when can i change my credit limit,credit_limit_change
+can i change my credit limit,credit_limit_change
+can i get more credit,credit_limit_change
+i need to change the credit limit i have,credit_limit_change
+you need to tell me how to increase credit limit for my chase card,credit_limit_change
+need to increase credit limit for chase card,credit_limit_change
+i need to increase credit limit for my chase card,credit_limit_change
+please tell me how to increase credit limit for the chase card,credit_limit_change
+tell me how to increase credit limit for chase card,credit_limit_change
+is it possible for me to increase my credit limit by 500 dollars,credit_limit_change
+can my credit limit be increased by 500 dollars,credit_limit_change
+"i would like to increase my credit limit, can i do so by 500 dollars",credit_limit_change
+may i increase my credit limit by 500 dollars,credit_limit_change
+could i perhaps increase by credit limit by 500 dollars,credit_limit_change
+can i increase the credit limit on my mastercard,credit_limit_change
+can i increase the credit limit on my visa card,credit_limit_change
+can i increase the credit limit on my discover card,credit_limit_change
+can i increase the credit limit on my capital one card,credit_limit_change
+can i increase the credit limit on my travel rewards card,credit_limit_change
+how can i get my credit limit to be increased to $1000,credit_limit_change
+can you get my credit limit increased to $1000,credit_limit_change
+how do i get my credit limit increased to $1000,credit_limit_change
+how do i ask for a limit increase on my discover card,credit_limit_change
+can i get my limit increased on my discover card,credit_limit_change
+how can i get a limit increase on my discover card,credit_limit_change
+who do i need to contact to ask for a credit limit increase on my discover card,credit_limit_change
+can you increase my credit limit to $1000,credit_limit_change
+can my credit limit be increased to $1000,credit_limit_change
+how do i adjust my credit limit,credit_limit_change
+how can i increase the credit limit on my discover card,credit_limit_change
+what do i owe to jcp,bill_balance
+what is the amount due on my visa,bill_balance
+how much do i owe visa,bill_balance
+how much do you think my rent and electric bills are,bill_balance
+what would you say my gas and phone bills are at,bill_balance
+i need to know the price of my car payment and insurance please,bill_balance
+what price is my credit card and my water bill at,bill_balance
+how much is my water and sewer,bill_balance
+how much do i need to pay for my electricity and water bills,bill_balance
+what is the cost of my rent and water bills,bill_balance
+how much are my rent and cable,bill_balance
+how much does my water and electricity cost,bill_balance
+what do i owe this month on all my bills,bill_balance
+"i think all my bills are paid, but can you double check",bill_balance
+"i think i owe about 100 left on my bills, am i forgetting anything",bill_balance
+what are my bills this month,bill_balance
+what does my cable bill look like,bill_balance
+has my electricity bill increased this month how much,bill_balance
+how expensive is my internet,bill_balance
+how much will my monthly bill be,bill_balance
+what are my total bills this month,bill_balance
+what will i be paying for utilities this month,bill_balance
+how much is my telephone bill this month,bill_balance
+how much is due for my water bill,bill_balance
+how much do i have to pay this month,bill_balance
+tell me my water bill please,bill_balance
+is the phone bill the same as last month,bill_balance
+whens my insurance due and how much does it cost,bill_balance
+how much is the car bill this month,bill_balance
+what is the electricity bill,bill_balance
+"can i get some more checkbooks sent to me, please",order_checks
+could i get some more checkbooks sent to me,order_checks
+"can i get some more checkbooks mailed to me, please",order_checks
+can i get some more checkbooks sent to me,order_checks
+"could i get some more checkbooks sent to me, please",order_checks
+how do i order some checkbooks for my chase account,order_checks
+for checkbooks can i order them for my chase account,order_checks
+am i able to order more checkbooks for my chase account,order_checks
+for my chase account can i order some checkbooks,order_checks
+is there a way to order checkbooks for a chase account,order_checks
+can you overnight me a few checkbooks,order_checks
+send me more checkbooks please,order_checks
+please mail me more checkbooks,order_checks
+i need more checkbooks mailed as soon as possible,order_checks
+i'd like more checkbooks mailed to me,order_checks
+how do i order some more checks for my bank of the west account,order_checks
+how do i order some more checks for my bank of america account,order_checks
+how do i order some more checks for my chase account,order_checks
+how do i order some more checks for my usaa account,order_checks
+how do i order some more checks for my navy federal account,order_checks
+i'm out of all my checks can i get some new ones,order_checks
+i'm out of my checks i need some new ones,order_checks
+can i get some new checks i'm out of mine,order_checks
+"i need to order some new checks, i'm all out of them",order_checks
+i am in need of new checks i'm completely out of mine,order_checks
+may i order more checks for my well's fargo account,order_checks
+do you know how i order more checks for my well's fargo account,order_checks
+what do i do to order new checkbooks for my well's fargo account,order_checks
+how do i order more checkbooks for my well's fargo account,order_checks
+where do i go to order more checks for my well's fargo account,order_checks
+my card got declined; why,card_declined
+can you help me understand why my card got declined,card_declined
+why was my card not accepted,card_declined
+can you tell me why my card got declined,card_declined
+i was at publix trying to buy some food but my card wouldnt work,card_declined
+who do i need to contact to find out why my card got declined,card_declined
+i need to know why my card got declined,card_declined
+"how do i fix my card, it was declined",card_declined
+why did my card get declined at public when i was trying to buy food,card_declined
+i was trying to buy food at publix but my card got declined,card_declined
+i was trying to use my card to get food at publix but it got declined,card_declined
+how can i fix my card being declined,card_declined
+"i was trying to get food at publix, why was my card declined",card_declined
+do you know why my card got declined,card_declined
+why my card stop working,card_declined
+my card declined,card_declined
+i was in australia trying to buy chips and my cards got declined,card_declined
+i was in thailand trying to buy candies and my card got declined,card_declined
+why was my card got declined when i am trying to pay for dinner when i am in vietnam,card_declined
+i could not buy food using my card when i was in vietnam,card_declined
+i was in thailand and i could not use my card to buy snacks,card_declined
+can you explain why i couldn't use my card at target,card_declined
+why was my card not working at target,card_declined
+my credit card was turned down at target and i'd like to know why,card_declined
+how come i got declined,card_declined
+why can't i use my credit card,card_declined
+why won't you let me pay with my credit card,card_declined
+why did i get rejected on my card,card_declined
+how come my credit card isn't working,card_declined
+why didn't my card work,card_declined
+"i want to bring my card on the texas trip in june, will it be expired by then",expiration_date
+"what's the month, year, and day that my card expires",expiration_date
+"does my card ending in 1234, or any of my cards, expire soon",expiration_date
+"does my card have an expiration date and if so, what is it",expiration_date
+"when does my card expire, the one ending in 1234",expiration_date
+give me my credit card expiration date,expiration_date
+what is the expiration month and year on my credit car,expiration_date
+when is the date of expiration for my first bank card,expiration_date
+what is the expiration month of my card,expiration_date
+what is the expiration date of my credit card,expiration_date
+let me know when my credit card expire,expiration_date
+when will my citi card expire,expiration_date
+when is my credit card expire,expiration_date
+when is the expiration month for my card,expiration_date
+when is the expiration date of my credit card,expiration_date
+what is the expiration date on my chase card,expiration_date
+when is the expiration date for me discover,expiration_date
+when it my citi card expired,expiration_date
+when is my card expired,expiration_date
+tell me the expiration date on my credit card,expiration_date
+what month is my card expired in,expiration_date
+how soon does my credit card expire,expiration_date
+when will my new credit card arrive,expiration_date
+what month does my credit card expire,expiration_date
+what is the date when my visa card will expire,expiration_date
+can you tell me what the date of expiry for my visa card is,expiration_date
+tell me the expiration date for my visa card,expiration_date
+show me the expiration date for my visa card,expiration_date
+where should i look for my credit card expiration day,expiration_date
+when will my credit card no longer be good,expiration_date
